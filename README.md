@@ -1,1 +1,1 @@
-# BMI
+Indeks Massa Tubuh (BMI) adalah alat yang umum digunakan untuk mengevaluasi status berat badan seseorang berdasarkan proporsi antara berat dan tinggi badan. Pengukuran ini dirancang untuk memberikan indikasi apakah seseorang memiliki berat badan yang sehat, kekurangan berat badan, atau kelebihan berat badan, serta risiko kesehatan yang mungkin terkait.
